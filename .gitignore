@@ -46,6 +46,7 @@ Carthage/Build/
 *.db-journal
 *.db-wal
 *.db-shm
+*.sqbpro
 
 # ──────────────────────────────────────
 # macOS
